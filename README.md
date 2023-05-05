@@ -1,0 +1,1 @@
+# wstrust-s2i-prototype
